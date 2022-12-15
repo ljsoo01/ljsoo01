@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Jisu%20Github%20👑&fontSize=35&animation=twinkling)
 
+<div align=center>
 
 <br><br><br>
 **Tech Stack✏️**
@@ -35,5 +36,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljsoo01)](https://github.com/ljsoo01/github-readme-stats)
 
 
-
+</div>
 
