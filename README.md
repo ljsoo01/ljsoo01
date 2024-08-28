@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/></a>&nbsp
 </p>
+<br>
 
 <h3 align="center">📫 CONTACT</h3>
 <p align="center">
