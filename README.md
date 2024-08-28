@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<h4 align="center">🔨 TECH STACK</h4> 
+<h3 align="center">🔨 TECH STACK</h3> 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>&nbsp<br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/jsp-20232a.svg?style=for-the-badge&logo=jsp&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/></a>&nbsp
 </p>
 
-<h4 align="center">📫 CONTACT</h4>
+<h3 align="center">📫 CONTACT</h3>
 <p align="center">
   <a href="mailtp:ljsu1225@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical">
   <a href="mailtp:jisoo2029@naver.com"><img src="https://img.shields.io/badge/-Naver-brightgreen">
