@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/24fec60a-260b-4ada-aeaf-95102648ceb7)<!--
+<!--
 **ljsoo01/ljsoo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
