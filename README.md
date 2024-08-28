@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 </p>
 
 <h4 align="center">📫 CONTACT</h4>
+<p align="center">
+  <a href="mailtp:ljsu1225@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical">
+</p>
