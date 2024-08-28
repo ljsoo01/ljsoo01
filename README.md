@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔨 STACK
+### 🔨 TECH STACK 
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljsoo01&layout=compact)
-
-![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljsoo01&show_icons=true&theme=radical)
