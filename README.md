@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">📫 CONTACT</h3>
 <p align="center">
-  <a href="mailtp:ljsu1225@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical">
-  <a href="mailtp:jisoo2029@naver.com"><img src="https://img.shields.io/badge/-Naver-brightgreen">
+  <a href="mailto:ljsu1225@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical">
+  <a href="mailto:jisoo2029@naver.com"><img src="https://img.shields.io/badge/-Naver-brightgreen">
 </p>
