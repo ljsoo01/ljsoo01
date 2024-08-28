@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<h3 align="center">🔨 TECH STACK</h3> 
+<h4 align="center">🔨 TECH STACK</h4> 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp
@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 <h4 align="center">📫 CONTACT</h4>
 <p align="center">
   <a href="mailtp:ljsu1225@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical">
+  <a href="mailtp:jisoo2029@naver.com"><img src="https://img.shields.io/badge/-Naver-critical">
 </p>
