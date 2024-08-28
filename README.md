@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h4 align="center">🔨 TECH STACK</h4> 
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-00599C?style=flat-square&logo=html5&logoColor=E34F26"/></a>&nbsp
+  <img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=E34F26"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TypeScript-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
